@@ -1,19 +1,19 @@
 # NestJS + Postgres/PostGIS Backend - To-Do List
 
 ## Project Setup
-- [ ] Initialize NestJS project
-- [ ] Set up TypeScript configuration
-- [ ] Configure environment variables
-- [ ] Set up Git repository (done)
+- [x] Initialize NestJS project
+- [x] Set up TypeScript configuration
+- [x] Configure environment variables
+- [x] Set up Git repository (done)
 
 ## Database
-- [ ] Set up Docker Compose for Postgres + PostGIS
-- [ ] Create database connection in NestJS
-- [ ] Set up TypeORM/Prisma/Sequelize (choose one)
-- [ ] Create initial migration and seed data
+- [x] Set up Docker Compose for Postgres + PostGIS
+- [x] Create database connection in NestJS
+- [x] Set up TypeORM/Prisma/Sequelize (TypeORM)
+- [x] Create initial migration and seed data
 
 ## Features
-- [ ] Define main modules (e.g., Users, Auth, GeoData)
+- [ ] **Define main modules (e.g., Users, Auth, GeoData)** _(in progress)_
 - [ ] Implement authentication (JWT, etc.)
 - [ ] Implement CRUD for main entities
 - [ ] Add spatial queries using PostGIS

@@ -1,1 +1,34 @@
-node_modules
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TypeORM CLI
+ormconfig.json
+*.sqlite
+
+# Coverage reports
+coverage/
+
+# Misc
+*.tgz
+.idea/
+.vscode/
+*.swp
+*.swo
